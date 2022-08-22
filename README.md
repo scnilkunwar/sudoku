@@ -1,2 +1,3 @@
 # sudoku
- sudoku solver in C
+ sudoku solver in C.
+But cant solve all 😆
